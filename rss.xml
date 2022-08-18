@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+ <rss version="2.0">
+ 	<chanel>
+ 	        <title>F.A.M. djs</title>
+ 	        <description>Keep in touch with our parties</description>
+ 	        <link>https://famm.netlify.com/index.html</link>
+ 		<item>
+ 			<title>Next party:20th of November!</title>
+ 			<description>Did you buy your ticket yet?We will be at a club KPTM-starting at 11PM</description>
+ 			<link>https://famm.netlify.com/index.html</link>
+ 		</item>
+ 		<item>
+ 			<title>Best party ever</title>
+ 			<description>Celebrate New Year with best party makers in the city!</description>
+ 			<link>https://famm.netlify.com/index.html</link>
+ 		</item>
+ 		<item>
+ 		    <title>We have a special guest at 16th of December starting at 00PM</title>
+ 			<description>Come to the next party because there will be your favorite singer-Nummero!</description>
+ 			<link>https://famm.netlify.com/index.html</link>
+ 		</item>
+ 	</chanel>
+ </rss>
